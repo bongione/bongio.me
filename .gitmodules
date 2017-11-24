@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/bongione/bongio.me-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/bongione/bongio.me-frontend.git

@@ -1,0 +1,24 @@
+{
+  "name": "bongio.me",
+  "version": "0.0.1",
+  "description": "The bongio.me website sources",
+  "main": "backend/app/bin/www.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongione/bongio.me.git"
+  },
+  "keywords": [
+    "bongio",
+    "website",
+    "personal"
+  ],
+  "author": "Paolo F. Bongiovanni <paolo.bongiovanni@mindiply.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bongione/bongio.me/issues"
+  },
+  "homepage": "https://github.com/bongione/bongio.me#readme"
+}
